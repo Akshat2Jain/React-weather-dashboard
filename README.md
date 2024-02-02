@@ -46,7 +46,7 @@ This project is a Weather Forecast Dashboard built using ReactJS and integrated 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-forecast-dashboard.git
+   git clone https://github.com/Akshat2Jain/React-weather-dashboard.git
 
    ```
 
