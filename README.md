@@ -9,9 +9,6 @@ Welcome to the Weather Forecast Dashboard, a single-page application to check cu
 - [Technical Stack](#technical-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
